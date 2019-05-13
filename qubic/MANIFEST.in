@@ -1,0 +1,4 @@
+include .coveragerc
+include hooks.py
+include README.rst
+graft test/data
